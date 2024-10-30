@@ -1,4 +1,19 @@
-# Hangboard-App
+# Hangboard Timer and Tracker
+
+This is a desktop app for tracking force over time for hangboard training, allowing climbers to measure their pulling force in real time.
+
+## Features
+- Real-time graph of force over time
+- Options for timed pulls
+- Mock sensor data (to be replaced by Bluetooth sensor)
+
+## Installation
+1. Clone the repository.
+2. Install dependencies with:
+   ```bash
+   pip install -r requirements.txt
+
+
 
 hangboard_app/
 ├── main.py                 # Entry point for running the app
